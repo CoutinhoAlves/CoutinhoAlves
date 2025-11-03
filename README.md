@@ -1,4 +1,4 @@
-<h1 align="center">Me chamo Jorge Mikael Coutinho Alves, tenho 26 anos e sou natural do Amazinas. Concluí o ensino médio na Escola Estadual Tereza dos Santos. Atualmente, estou cursando Licenciatura em Computação na UEA-CESIT. Sou apaixonado por tecnologia e Educação tenho projetos com Redes Neurais Artificias e Robotica.</h1>
+<h1 align="center">MCoutinho Alves.</h1>
 
 ###
 
