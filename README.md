@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Coutinho Alves
 
-**`Desenvolvedora FullStack`**
+**`Professor de Computação`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+Me chamo Jorge Mikael Coutinho Alves, tenho 26 anos e sou natural do Amazonas. Formado em Licenciatura em Computação pela Universidade do Estado do Amazonas (UEA). POS-GRADUANDO em  Tecnologias Digitais Aplicadas à Educação. Atualmente estou trabalhando como PROTLAB/TRAINEE na UEA desenvolvendo projetos de Pesquisa, Extenção e Iniciação Científica.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
